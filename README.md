@@ -1,70 +1,70 @@
- Somali Proverbs Generator
+# 📘 Somali Proverbs Generator
 
-A simple React application that generates random Somali proverbs at the click of a button. The app highlights Somali culture and wisdom while demonstrating core React concepts such as state management and component-based architecture.
+A simple React application that generates random Somali proverbs at the click of a button. The project highlights Somali culture and wisdom while demonstrating core React fundamentals.
 
-📖 Overview
+---
 
-The Somali Proverbs Generator is designed to display traditional Somali sayings randomly. It provides a minimal and user-friendly interface where users can generate a new proverb instantly.
+## 📖 Overview
 
-This project was built to practice and showcase:
+The Somali Proverbs Generator is a lightweight web app that displays traditional Somali sayings randomly. It provides a clean and user-friendly interface where users can generate a new proverb instantly.
 
-React functional components
+This project was built to practice and demonstrate core React concepts, including:
 
-React Hooks (useState)
+- Functional components  
+- React Hooks (`useState`)  
+- Event handling  
+- Basic UI design  
 
-Event handling
+---
 
-Basic UI design
+## ✨ Features
 
-✨ Features
+- Random Somali proverb generation  
+- Simple and responsive user interface  
+- Lightweight and fast performance  
+- Clean component-based structure  
 
-Random proverb generation
+---
 
-Clean and responsive interface
+## 🛠️ Technologies Used
 
-Lightweight and easy to use
+- React ⚛️  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
 
-Organized component structure
+---
 
-🛠️ Technologies Used
+## 🧠 How It Works
 
-React
+The application stores a list of Somali proverbs in an array. When the user clicks the **Generate** button:
 
-JavaScript (ES6+)
+1. A random index is generated  
+2. A proverb is selected from the array  
+3. React’s `useState` updates the displayed proverb  
+4. The UI re-renders instantly with the new proverb  
 
-HTML5
+---
 
-CSS3
+## 📌 Example Proverbs
 
-🧠 How It Works
+- “Aqoon la’aan waa iftiin la’aan.”  
+- “Midnimo waa xoog.”  
+- “Geed walba guntiisa ayaa la qodaa.”  
+- “Nin aan talin jirin talo ma yaqaan.”  
 
-The application stores a collection of Somali proverbs in an array.
-When the user clicks the generate button:
+---
 
-A random index is created.
+## 🎯 Purpose
 
-A proverb is selected from the array.
+This project was created as:
 
-The state updates dynamically using React’s useState hook.
+- A beginner-friendly React practice project  
+- A portfolio piece demonstrating front-end development skills  
+- A cultural project showcasing Somali wisdom through technology  
 
-The new proverb is displayed instantly on the screen.
+---
 
-📌 Example Proverbs
+## 👩‍💻 Note
 
-“Aqoon la’aan waa iftiin la’aan.”
-
-“Midnimo waa xoog.”
-
-“Geed walba guntiisa ayaa la qodaa.”
-
-“Nin aan talin jirin talo ma yaqaan.”
-
-🎯 Purpose
-
-This project serves as:
-
-A beginner-friendly React practice project
-
-A portfolio piece demonstrating front-end fundamentals
-
-A cultural showcase of Somali wisdom through technology
+This project reflects my early journey in learning React and building interactive web applications.
